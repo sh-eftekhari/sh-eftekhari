@@ -5,7 +5,7 @@
 ### Personal informations
 
 ---
-+ name: Shokofe
++ name: Shokrieh
 + last name : Eftekhari
 + Date of birth : 1376/1/1
 + I am a Computer engineering student
