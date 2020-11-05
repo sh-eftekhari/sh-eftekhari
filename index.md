@@ -7,40 +7,39 @@
 ---
 + name: Shokofe
 + last name : Eftekhari
-+ Date of birth : 1999/April/10
-+ I am a trader and Computer engineering student
++ Date of birth : 1376/1/1
++ I am a Computer engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ Programming
-+ playing games on best leagues
++ Nail design
++ self defense
 
 ### Education
 
 ---
-+ Diploma : Shahid Dr.Chamran school
-_ 2015
++ Diploma : kafayizadeh school
+_ 2017/2018
 + Bachelor of science : computer Engineering
-_ 2018,payam Noor University of Rey 
+_ 2018,payam Noor University of pakdasht 
 
 ### Favorites
 
 ---
-+ Trade
-+ ping-pong
++ martial arts
++ Nail design
 + travel 
-+ playing video games
++ web designing
 
 ### working Experience
 
 ---
-+ I am working in Mofid Brokerage .
++ I am working in beauty salon as a Nail designer .
 
-### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
+### [contact with me](shokofeeftekhari0821@gmail.com)
 
 
 --- 
