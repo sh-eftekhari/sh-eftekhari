@@ -1,6 +1,6 @@
 
 ### Mir Mohammad Kamali
-<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+<a href="http://s16.picofile.com/file/8412928368/photo.png" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
