@@ -1,6 +1,6 @@
 
 ### Mir Mohammad Kamali
-<a href="http://s16.picofile.com/file/8412928368/photo.png" border="0" alt="آپلود عکس" /></a>
+<a href="http://yekupload.ir/be166d43ac12dfed/photo.png" target="_blank" title="دانلود از یک آپلود"><img src="http://s3.yekupload.ir/plugins/imageviewer/site/thumb.php?s=be166d43ac12dfed&/photo.png"/></a>
 
 ### Personal informations
 
