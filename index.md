@@ -5,8 +5,8 @@
 ### Personal informations
 
 ---
-+ name: Mir mohammad
-+ last name : kamali
++ name: Shokofe
++ last name : Eftekhari
 + Date of birth : 1999/April/10
 + I am a trader and Computer engineering student
 + location : Tehran , I.R.Iran
